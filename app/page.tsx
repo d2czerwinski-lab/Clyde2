@@ -22,7 +22,7 @@ export default function Home() {
             { role: "user", content: userMessage },
             {
                 role: "assistant",
-                content: "Clyde 2.0: Otrzymałem Twoją wiadomość! 🤖",
+                content: "hej jestem clyde2.0 w czym moge pomóc",
             },
         ]);
 
